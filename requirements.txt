@@ -1,5 +1,5 @@
-tensorflow-cpu
 pandas>=2.0.0
 pillow>=10.0.0
 matplotlib>=3.7.0
 streamlit>=1.30.0
+keras>=3.0
